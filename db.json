@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Falta de energia",
+      "icon": "light",
       "description": "Energia caiu por volta das 17h, agora são 23h e ainda não voltou.",
       "type": "lackOfEnergy",
       "date": "20/05/2021",
@@ -12,6 +13,7 @@
     {
       "id": 2,
       "title": "Buraco",
+      "icon": "light",
       "description": "Buraco na Avenida X, já fazem 6 meses.",
       "type": "hole",
       "date": "20/07/2021",
@@ -21,6 +23,7 @@
     {
       "id": 3,
       "title": "Problema no esgoto",
+      "icon": "default",
       "description": "Ocorreu um vazamento de esgoto em minha rua. Rua X.",
       "type": "other",
       "date": "20/05/2021",
