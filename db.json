@@ -23,7 +23,7 @@
     {
       "id": 3,
       "title": "Problema no esgoto",
-      "icon": "icons.default",
+      "icon": "icons.defaultIcon",
       "description": "Ocorreu um vazamento de esgoto em minha rua. Rua X.",
       "type": "other",
       "date": "20/05/2021",
